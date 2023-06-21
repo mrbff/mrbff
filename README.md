@@ -1,6 +1,6 @@
 [![mabaffo's 42 stats](https://badge42.vercel.app/api/v2/clj5t4hp5017508ie2lbus57n/stats?cursusId=21&coalitionId=285)](https://github.com/JaeSeoKim/badge42)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mrbff&theme=gotham&hide_border=true)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mrbff&theme=gotham&hide_border=true)](https://git.io/streak-stats)
 <!--
 **mrbff/mrbff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
