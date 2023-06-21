@@ -5,3 +5,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mrbff&theme=gotham&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrbff&layout=compact&theme=gotham&hide_border=true" />
 </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,solidity,ipfs,js,go,c,cpp,linux,git,docker,cmake,vscode,vim" />
+  </a>
+</p>
