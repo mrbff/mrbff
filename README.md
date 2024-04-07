@@ -7,7 +7,12 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,solidity,prisma,postgres,nestjs,java,c,cpp,linux,git,docker,kubernetes,cmake,angular,vue" />
+    <img src="https://skillicons.dev/icons?i=nestjs,java,c,cpp,cmake,angular,vue" />
+  </a>
+</p>  
+<p align="center">  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,solidity,prisma,postgres,linux,git,docker,kubernetes" />
   </a>
 </p>
 <p align="right">
